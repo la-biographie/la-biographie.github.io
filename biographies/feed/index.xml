@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Biographies &#8211; La Biographie</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Jan 2018 13:14:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.2</generator>
+	<item>
+		<title>Biographie de Pedro Almodovar</title>
+		<link>./../../biographie-de-pedro-almodovar/index.html</link>
+		<comments>./../../biographie-de-pedro-almodovar/index.html#respond</comments>
+		<pubDate>Thu, 25 Jan 2018 22:02:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Biographies]]></category>
+
+		<guid isPermaLink="false">./../../biographie-de-pedro-almodovar/index.html</guid>
+		<description><![CDATA[<p>  Le réalisateur espagnol Pedro Almodovar (né en 1949) était un leader du nouveau cinéma espagnol à l&#39;époque de l&#39;après-Franco. Connu pour des films tels que les femmes sur le point d&#39;une rupture nerveuse, Almodovar a été félicité pour sa description perspicace des femmes. Après un ralentissement créatif dans les années 1990, un Almodo var [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../biographie-de-pedro-almodovar/index.html">Biographie de Pedro Almodovar</a> appeared first on <a rel="nofollow" href="./../../index.html">La Biographie</a>.</p>
+]]></description>
+		<wfw:commentRss>./../../biographie-de-pedro-almodovar/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
